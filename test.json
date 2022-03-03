@@ -1,0 +1,104 @@
+{
+    "id": "random-id-123",
+    "name": "NOTFOUND",
+    "legalName": null,
+    "domain": "notfound.com",
+    "domainAliases": [
+        "notfound.co",
+        "notfound.best",
+        "notfound.ca",
+        "notfound.biz",
+        "notfound.pro"
+    ],
+    "site": {
+        "phoneNumbers": [
+            "+1 123 456 7890"
+        ],
+        "emailAddresses": [
+            "not@found.com"
+        ]
+    },
+    "category": {
+        "sector": "Non existent",
+        "industryGroup": "Nothing",
+        "industry": "No industry",
+        "subIndustry": "No subindustry",
+        "sicCode": "12",
+        "naicsCode": "34"
+    },
+    "tags": [
+        "hehe"
+    ],
+    "description": "Not found is 404",
+    "foundedYear": 2000,
+    "location": "404 Not Found Street, Empty city",
+    "timeZone": "Not/Found",
+    "utcOffset": -404,
+    "geo": {
+        "streetNumber": "404",
+        "streetName": "Not Found Street",
+        "subPremise": null,
+        "streetAddress": "404 Not Found Street",
+        "city": "Empty City",
+        "postalCode": "4O4 404",
+        "state": "Nope",
+        "stateCode": "HAHA",
+        "country": "Matrix",
+        "countryCode": "E",
+        "lat": 45,
+        "lng": -73
+    },
+    "logo": "https://logo.clearbit.com/google.com",
+    "facebook": {
+        "handle": null,
+        "likes": null
+    },
+    "linkedin": {
+        "handle": "company/notfound"
+    },
+    "emailProvider": false,
+    "type": "private",
+    "ticker": null,
+    "identifiers": {
+        "usEIN": null
+    },
+    "phone": null,
+    "metrics": {
+        "alexaUsRank": null,
+        "alexaGlobalRank": 1,
+        "employees": 404,
+        "employeesRange": "100+",
+        "marketCap": null,
+        "raised": null,
+        "annualRevenue": null,
+        "estimatedAnnualRevenue": "$404M",
+        "fiscalYearEnd": null
+    },
+    "indexedAt": "2022-02-02T19:41:31.803Z",
+    "tech": [
+        "google_apps",
+        "nginx",
+        "google_analytics",
+        "google_maps",
+        "google_tag_manager",
+        "github",
+        "salesforce",
+        "postgresql",
+        "mysql"
+    ],
+    "techCategories": [
+        "productivity",
+        "web_servers",
+        "analytics",
+        "geolocation",
+        "tag_management",
+        "crm",
+        "database"
+    ],
+    "parent": {
+        "domain": null
+    },
+    "ultimateParent": {
+        "domain": null
+    }
+}
